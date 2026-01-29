@@ -11,7 +11,7 @@ Support page for 育児シェア app
 
 アプリに関するご質問・不具合報告・ご要望は、以下までご連絡ください。
 
-📧 メール: your-email@example.com
+📧 メール: sousei0215@icloud.com
 
 （※ここはあとであなたの連絡用メールに変更）
 
